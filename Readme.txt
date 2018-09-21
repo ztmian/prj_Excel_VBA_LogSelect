@@ -1,4 +1,4 @@
-by ztmian 20180921
+Added by ztmian 20180921
 
 This is a Excel VBA project for Log Select and Analysis
 In this case, I get a log file with Hexadecimal format, need to know each line with key word.
